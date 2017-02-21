@@ -2,6 +2,7 @@ generated/
 target/
 findbugs/
 bin/
+dataset/
 # Compiled source #
 ###################
 *.com
